@@ -1,0 +1,17 @@
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/bin/Debug/net8.0/CurrencyExchange.Persistanse.deps.json
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/bin/Debug/net8.0/CurrencyExchange.Persistanse.dll
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/bin/Debug/net8.0/CurrencyExchange.Persistanse.pdb
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/CurrencyExchange.Persistanse.csproj.AssemblyReference.cache
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/CurrencyExchange.Persistanse.GeneratedMSBuildEditorConfig.editorconfig
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/CurrencyExchange.Persistanse.AssemblyInfoInputs.cache
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/CurrencyExchange.Persistanse.AssemblyInfo.cs
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/CurrencyExchange.Persistanse.csproj.CoreCompileInputs.cache
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/CurrencyExchange.Persistanse.dll
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/refint/CurrencyExchange.Persistanse.dll
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/CurrencyExchange.Persistanse.pdb
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/ref/CurrencyExchange.Persistanse.dll
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/bin/Debug/net8.0/CurrencyExchange.Persistanse.runtimeconfig.json
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/bin/Debug/net8.0/CurrencyExchange.Core.dll
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/bin/Debug/net8.0/CurrencyExchange.Core.pdb
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/CurrencyExchange.Persistanse.csproj.CopyComplete
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Persistanse/obj/Debug/net8.0/CurrencyExchange.Persistanse.genruntimeconfig.cache

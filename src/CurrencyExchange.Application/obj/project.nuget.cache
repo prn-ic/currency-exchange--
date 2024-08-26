@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rlfnBQimlnVhuugiLb5dxKFJBMceZKi54mN8SnUC46Nkzu/POLvx2XlkyUX+pTdeR0Lxm0y+wI9KhaM8sbwIA==",
+  "success": true,
+  "projectFilePath": "/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/CurrencyExchange.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/zmqp/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

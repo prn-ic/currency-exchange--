@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4NU9JMuubjynet9tTWF1QQIgLoOV3EhXRZYT739M29w=",
+  "Source": "CurrencyExchange.WebApi",
+  "BasePath": "_content/CurrencyExchange.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

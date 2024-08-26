@@ -1,0 +1,11 @@
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/bin/Debug/net8.0/CurrencyExchange.Application.deps.json
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/bin/Debug/net8.0/CurrencyExchange.Application.dll
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/bin/Debug/net8.0/CurrencyExchange.Application.pdb
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/obj/Debug/net8.0/CurrencyExchange.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/obj/Debug/net8.0/CurrencyExchange.Application.AssemblyInfoInputs.cache
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/obj/Debug/net8.0/CurrencyExchange.Application.AssemblyInfo.cs
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/obj/Debug/net8.0/CurrencyExchange.Application.csproj.CoreCompileInputs.cache
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/obj/Debug/net8.0/CurrencyExchange.Application.dll
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/obj/Debug/net8.0/refint/CurrencyExchange.Application.dll
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/obj/Debug/net8.0/CurrencyExchange.Application.pdb
+/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Application/obj/Debug/net8.0/ref/CurrencyExchange.Application.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oFjYliXVpe3/PhBcq0YMISNQdtm2FUG0GTRGoNXvgYk5PHjxG8Ox7srDNJLZQjWpxE01MoUnc+zrrPJY8ricA==",
+  "success": true,
+  "projectFilePath": "/home/zmqp/Документы/github/currency-exchange/src/CurrencyExchange.Core/CurrencyExchange.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/zmqp/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/zmqp/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
